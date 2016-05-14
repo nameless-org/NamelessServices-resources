@@ -21,4 +21,8 @@
 
     <string name="pocket_gesture_title">Pocket</string>
     <string name="pocket_gesture_summary">Pulse notifications on removal from pocket</string>
+
+    <!-- Permissions -->
+    <string name="permission_use_services_label">use Nameless Service</string>
+    <string name="permission_use_services_desc">Allow using Nameless Services</string>
 </resources>
