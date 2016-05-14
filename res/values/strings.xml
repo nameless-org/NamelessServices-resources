@@ -1,0 +1,24 @@
+<resources>
+    <string name="crash_report">Crash report</string>
+    <string name="submit_crash_report">Preview Crash Report</string>
+    <string name="submit">Submit</string>
+    <string name="title_subject">Submission subject</string>
+    <string name="title_crash_log">Submission content</string>
+    <string name="submit_not_working">Could not submit bug report!</string>
+    <string name="network_unavailable">No network connection available</string>
+
+    <string name="crash_clipboard_message_success">Crash report copied to clipboard.</string>
+    <string name="crash_clipboard_message_failure">Failed to copy the crash report to clipboard.</string>
+
+    <!-- Doze -->
+    <string name="ambient_display_title">Ambient display</string>
+
+    <string name="ambient_display_enable_title" translatable="false">@string/ambient_display_title</string>
+    <string name="ambient_display_enable_summary">Wake screen when you receive notifications</string>
+
+    <string name="hand_wave_gesture_title">Hand wave</string>
+    <string name="hand_wave_gesture_summary">Pulse notifications on hand wave</string>
+
+    <string name="pocket_gesture_title">Pocket</string>
+    <string name="pocket_gesture_summary">Pulse notifications on removal from pocket</string>
+</resources>
