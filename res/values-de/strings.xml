@@ -17,4 +17,7 @@
   <string name="hand_wave_gesture_summary">Benachrichtigungen durch Winken einblenden</string>
   <string name="pocket_gesture_title">Taschenmodus</string>
   <string name="pocket_gesture_summary">Benachrichtigungen einblenden, wenn das Gerät aus der Tasche geholt wird</string>
+  <!-- Permissions -->
+  <string name="permission_use_services_label">Auf Nameless Services zugreifen</string>
+  <string name="permission_use_services_desc">Ermöglicht die Nutzung von Nameless Services</string>
 </resources>
